@@ -1,4 +1,4 @@
-// File: /Users/nadunwickramanayake/Downloads/portfolio-main/src/app/layout.js
+// File: /Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/layout.js
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

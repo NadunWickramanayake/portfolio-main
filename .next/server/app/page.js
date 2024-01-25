@@ -244,7 +244,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 447:
+/***/ 3461:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -278,7 +278,7 @@ const tree = {
         '',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5776)), "/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/page.js"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5776)), "/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/page.js"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3881))).default(props))],
     apple: [],
@@ -289,7 +289,7 @@ const tree = {
         }]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2911)), "/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/layout.js"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2911)), "/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/layout.js"],
 'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 5493, 23)), "next/dist/client/components/not-found-error"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3881))).default(props))],
@@ -301,7 +301,7 @@ const tree = {
         }
       ]
       }.children;
-const pages = ["/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/page.js"];
+const pages = ["/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/page.js"];
 
 // @ts-expect-error - replaced by webpack/turbopack loader
 
@@ -333,7 +333,7 @@ const routeModule = new AppPageRouteModule({
 
 /***/ }),
 
-/***/ 4402:
+/***/ 1237:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 1232, 23));
@@ -345,22 +345,22 @@ Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_
 
 /***/ }),
 
-/***/ 6853:
+/***/ 9789:
 /***/ (() => {
 
 
 
 /***/ }),
 
-/***/ 4718:
+/***/ 3439:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 6255));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 9594));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 8624));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5602));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 1873));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 3934));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 1873))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5602))
 
 /***/ }),
 
@@ -590,7 +590,7 @@ __webpack_require__.r(__webpack_exports__);
 const AnimatedNumbers = next_dynamic__WEBPACK_IMPORTED_MODULE_2___default()(null, {
     loadableGenerated: {
         modules: [
-            "/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/components/AchievementsSection.jsx -> " + "react-animated-numbers"
+            "/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/components/AchievementsSection.jsx -> " + "react-animated-numbers"
         ]
     },
     ssr: false
@@ -1199,19 +1199,19 @@ const projectsData = [
     {
         id: 1,
         title: "React Portfolio Website",
-        description: "Project 1 description",
+        description: "Tech stack - React, Next.js, Tailwind CSS, TypeScript",
         image: "/images/projects/1.png",
         tag: [
             "All",
             "Web"
         ],
-        gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Java%20Based%20projects/A%20system%20to%20manage%20a%20Skin%20Consultation%20Centre.",
-        previewUrl: "/"
+        gitUrl: "https://github.com/NadunWickramanayake/portfolio-main.git",
+        previewUrl: "https://sweet-marshmallow-b08e85.netlify.app"
     },
     {
         id: 2,
         title: "Potography Portfolio Website",
-        description: "Project 2 description",
+        description: "",
         image: "/images/projects/2.png",
         tag: [
             "All",
@@ -1222,27 +1222,27 @@ const projectsData = [
     },
     {
         id: 3,
-        title: "E-commerce Application",
-        description: "Project 3 description",
+        title: "Tour-Guide Application",
+        description: "Visit Thambapanni website that aims to help people who are interested to travel in Sri Lanka. This website will basically recommend amazing places to visit in Sri Lanka and gives users the option to place orders for Sri Lankan unique items such as spices, herbs, and travel products.  Tech Stack - JavaScript, HTML, and CSS.",
         image: "/images/projects/3.png",
         tag: [
             "All",
             "Web"
         ],
-        gitUrl: "/",
+        gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Web%20Development%20Projects/Visit%20Thambapanni",
         previewUrl: "/"
     },
     {
         id: 4,
-        title: "Food Ordering Application",
-        description: "Project 4 description",
+        title: "MindGuard - Depression Screening Application",
+        description: "Two options for screening depression status ; Quick Screening and In Depth Screening Quick Screening includes with a questionnaire ,In Depth Screening includes a chatbot feature",
         image: "/images/projects/4.png",
         tag: [
             "All",
-            "Mobile"
+            "Web"
         ],
-        gitUrl: "/",
-        previewUrl: "/"
+        gitUrl: "https://github.com/NadunWickramanayake/SE-87_SDGP_Project",
+        previewUrl: "https://drive.google.com/file/d/1afc-eqlu4i52AdmrSFLzjB0txcxEcGyl/view?usp=sharing"
     },
     {
         id: 5,
@@ -1397,7 +1397,7 @@ var jsx_runtime_ = __webpack_require__(6786);
 var module_proxy = __webpack_require__(1363);
 ;// CONCATENATED MODULE: ./src/app/components/HeroSection.jsx
 
-const proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/components/HeroSection.jsx`)
+const proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/components/HeroSection.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1410,7 +1410,7 @@ const __default__ = proxy.default;
 /* harmony default export */ const HeroSection = (__default__);
 ;// CONCATENATED MODULE: ./src/app/components/Navbar.jsx
 
-const Navbar_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/components/Navbar.jsx`)
+const Navbar_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/components/Navbar.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1423,7 +1423,7 @@ const Navbar_default_ = Navbar_proxy.default;
 /* harmony default export */ const Navbar = (Navbar_default_);
 ;// CONCATENATED MODULE: ./src/app/components/AboutSection.jsx
 
-const AboutSection_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/components/AboutSection.jsx`)
+const AboutSection_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/components/AboutSection.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1436,7 +1436,7 @@ const AboutSection_default_ = AboutSection_proxy.default;
 /* harmony default export */ const AboutSection = (AboutSection_default_);
 ;// CONCATENATED MODULE: ./src/app/components/ProjectsSection.jsx
 
-const ProjectsSection_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/components/ProjectsSection.jsx`)
+const ProjectsSection_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/components/ProjectsSection.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1449,7 +1449,7 @@ const ProjectsSection_default_ = ProjectsSection_proxy.default;
 /* harmony default export */ const ProjectsSection = (ProjectsSection_default_);
 ;// CONCATENATED MODULE: ./src/app/components/EmailSection.jsx
 
-const EmailSection_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/components/EmailSection.jsx`)
+const EmailSection_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/components/EmailSection.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1486,7 +1486,7 @@ const Footer = ()=>{
 
 ;// CONCATENATED MODULE: ./src/app/components/AchievementsSection.jsx
 
-const AchievementsSection_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Downloads/portfolio-main/src/app/components/AchievementsSection.jsx`)
+const AchievementsSection_proxy = (0,module_proxy.createProxy)(String.raw`/Users/nadunwickramanayake/Library/CloudStorage/OneDrive-InformaticsInstituteofTechnology/iit e learning/Internship/portfolio-main/src/app/components/AchievementsSection.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1567,7 +1567,7 @@ __webpack_require__.r(__webpack_exports__);
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [587,60,352], () => (__webpack_exec__(447)));
+var __webpack_exports__ = __webpack_require__.X(0, [587,60,352], () => (__webpack_exec__(3461)));
 module.exports = __webpack_exports__;
 
 })();
