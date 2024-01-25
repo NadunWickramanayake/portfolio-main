@@ -11,8 +11,8 @@ const projectsData = [
     description: "Project 1 description",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Java%20Based%20projects/A%20system%20to%20manage%20a%20Skin%20Consultation%20Centre.",
-    previewUrl: "/",
+    gitUrl: "https://github.com/NadunWickramanayake/portfolio-main.git",
+    previewUrl: "https://sweet-marshmallow-b08e85.netlify.app",
   },
   {
     id: 2,
