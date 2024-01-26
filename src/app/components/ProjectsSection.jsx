@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Web%20Development%20Projects/Visit%20Thambapanni",
-    previewUrl: "/",
+    previewUrl: "visit-thambapanni.netlify.app",
   },
   {
     id: 4,
