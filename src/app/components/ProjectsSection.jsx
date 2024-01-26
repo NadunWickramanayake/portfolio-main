@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NadunWickramanayake/portfolio-main.git",
-    previewUrl: "https://sweet-marshmallow-b08e85.netlify.app",
+    previewUrl: "https://nadun-wickramanayake-portfolio.netlify.app",
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Web%20Development%20Projects/Visit%20Thambapanni",
-    previewUrl: "visit-thambapanni.netlify.app",
+    previewUrl: "https://visit-thambapanni.netlify.app",
   },
   {
     id: 4,
