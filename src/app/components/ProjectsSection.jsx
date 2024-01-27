@@ -16,12 +16,12 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
-    description: "",
+    title: "Home Automation Store",
+    description: "homteq is a highly specialised retailer that offers a wide range of devices at the most competitive prices to make home and life SMART. homteq retails many smart products to the general public and to corporate business organisations.",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Web%20Development%20Projects/Hometeq-main",
+    previewUrl: "https://hometeq.000webhostapp.com/index.php",
   },
   {
     id: 3,
