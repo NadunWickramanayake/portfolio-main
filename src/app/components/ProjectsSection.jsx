@@ -8,7 +8,8 @@ const projectsData = [
   {
     id: 1,
     title: "React Portfolio Website",
-    description: "Tech stack - React, Next.js, Tailwind CSS, TypeScript",
+    description: "Welcome to my portfolio :) ",
+    techStack: "Tech stack :- React, Next.js, Tailwind CSS, TypeScript",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NadunWickramanayake/portfolio-main.git",
@@ -16,8 +17,9 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Home Automation Store",
+    title: "E-commerce Website",
     description: "homteq is a highly specialised retailer that offers a wide range of devices at the most competitive prices to make home and life SMART. homteq retails many smart products to the general public and to corporate business organisations.",
+    techStack: "Tech Stack :- PHP, MySQL, HTML, CSS",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Web%20Development%20Projects/Hometeq-main",
@@ -26,7 +28,8 @@ const projectsData = [
   {
     id: 3,
     title: "Tour-Guide Application",
-    description: "Visit Thambapanni website that aims to help people who are interested to travel in Sri Lanka. This website will basically recommend amazing places to visit in Sri Lanka and gives users the option to place orders for Sri Lankan unique items such as spices, herbs, and travel products.  Tech Stack - JavaScript, HTML, and CSS.",
+    description: "Visit Thambapanni website that aims to help people who are interested to travel in Sri Lanka. This website will basically recommend amazing places to visit in Sri Lanka and gives users the option to place orders for Sri Lankan unique items such as spices, herbs, and travel products. ",
+    techStack: " Tech Stack :- JavaScript, HTML, and CSS",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Web%20Development%20Projects/Visit%20Thambapanni",
@@ -36,6 +39,7 @@ const projectsData = [
     id: 4,
     title: "MindGuard - Depression Screening Application",
     description: "Two options for screening depression status ; Quick Screening and In Depth Screening Quick Screening includes with a questionnaire ,In Depth Screening includes a chatbot feature",
+    techStack: "Tech Stack :- Node.js , HTML, CSS, Javascript, Python, Flask, Google Firebase ",
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NadunWickramanayake/SE-87_SDGP_Project",
@@ -43,21 +47,23 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "React Firebase Template",
-    description: "Authentication and CRUD operations",
+    title: "Math Game",
+    description: "The game goal is for the user to fill in the blank with the appropriate number or operator to complete the equation.",
+    techStack: "Tech Stack :- Javascript,HTML, CSS",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/NadunWickramanayake/Projects/tree/main/Web%20Development%20Projects/Math-Game",
+    previewUrl: "https://nadunwickramanayake.github.io/Projects/Web%20Development%20Projects/Math-Game/",
   },
   {
     id: 6,
-    title: "Full-stack Roadmap",
-    description: "Project 5 description",
+    title: "To-Do-App",
+    description: "To Do is a task management app that makes it easy to stay organized and manage your life. ",
+    techStack: "Tech Stack :- React.js , Node.js, HTML, SCSS",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/NadunWickramanayake/To-Do-App",
+    previewUrl: "https://to-do-app-nadun.netlify.app/",
   },
 ];
 
@@ -117,6 +123,8 @@ const ProjectsSection = () => {
               imgUrl={project.image}
               gitUrl={project.gitUrl}
               previewUrl={project.previewUrl}
+              techStack={project.techStack}
+
             />
           </motion.li>
         ))}
