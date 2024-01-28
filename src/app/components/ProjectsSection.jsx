@@ -13,7 +13,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/NadunWickramanayake/portfolio-main.git",
-    previewUrl: "https://nadun-wickramanayake-portfolio.netlify.app",
+    previewUrl: "https://nadun-portfolio.vercel.app",
   },
   {
     id: 2,
