@@ -12,7 +12,7 @@ const projectsData = [
     techStack: "Tech stack :- React, Next.js, Tailwind CSS, TypeScript",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/NadunWickramanayake/portfolio-main.git",
+    gitUrl: "https://github.com/NadunWickramanayake/portfolio-main.git" ,
     previewUrl: "https://nadun-portfolio.vercel.app",
   },
   {
