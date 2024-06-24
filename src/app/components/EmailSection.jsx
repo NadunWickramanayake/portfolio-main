@@ -24,16 +24,16 @@ const EmailSection = () => {
             try my best to get back to you! 
           </p>
           <p className="text-white font-bold mb-4 max-w-md">
-            Email Adress - nadun.wic@gmail.com
+            Email Adress - abcd@gmail.com
           </p>  
           <div className="socials flex justify-center gap-2">
-            <Link href="https://github.com/NadunWickramanayake">
+            <Link href="/">
               <Image src={GithubIcon} alt="Github Icon" />
             </Link>
-            <Link href="https://www.linkedin.com/in/nadun-wickramanayake/">
+            <Link href="/">
               <Image src={LinkedinIcon} alt="Linkedin Icon" />
             </Link>
-            <Link href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGLrbGbPlKfZhLPbLqfJKTjqCKVTwgSThRtcTtJwFgBMRdGwvwDZQKlMDrtwTplWcbFkkTg">
+            <Link href="/">
               <Image src={check} alt="Mail Icon" />
             </Link>
           </div>
