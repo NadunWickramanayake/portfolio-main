@@ -22,7 +22,7 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "TN EDITz",
+                "Nadun",
                 1000,
                 "Software Engineer",
                 1000,
@@ -36,7 +36,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Hi, I am  TN EDITz. A passionate Software Engineer based in New York, United States.
+            Hi, I am  Nadun Wickramanayake. A passionate Software Engineer based in Colombo, Sri Lanka.
           </p>
           <div>
             <Link
@@ -46,7 +46,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="/" target="_blank"
+              href="https://drive.google.com/file/d/1sepBGf5lBb3caPljIGGYd7pGE0RynTEU/view?usp=sharing" target="_blank"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
@@ -63,7 +63,7 @@ const HeroSection = () => {
         >
           <div className="squared-full bg-[#181818] w-[240px] h-[240px] lg:w-[340px] lg:h-[340px] relative">
             <Image
-              src="/images/hero-image.avif"
+              src="/images/hero-image.png"
               alt="hero image"
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={300}

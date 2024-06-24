@@ -28,7 +28,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>University of Oxford, UK</li>
+        <li>Informatics Institute of Technology, Sri Lanka</li>
         <li>University of Westminster, UK</li>
       </ul>
     ),
@@ -38,8 +38,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Certificate 01</li>
-        <li>Certificate 02</li>
+        <li>Foundation Certificate , Informatics Institute of Technology</li>
+        <li>Career Essentials in Software Development, Microsoft</li>
       </ul>
     ),
   },
